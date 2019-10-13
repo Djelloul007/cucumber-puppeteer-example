@@ -20,7 +20,7 @@ The `yarn test` command will generate a JSON report file. You can use the `yarn 
 "# cucumber-puppeteer-example" 
 
 
-to generate test coverage 
+to generate test coverage using puppeteer-to-istanbul
 - install nyc, npm i nyc -g 
 and then 
 - nyc report --reporter=html 
