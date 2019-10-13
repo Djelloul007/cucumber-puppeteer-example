@@ -21,6 +21,6 @@ The `yarn test` command will generate a JSON report file. You can use the `yarn 
 
 
 to generate test coverage 
-install nyc, npm i nyc -g 
+- install nyc, npm i nyc -g 
 and then 
-nyc report --reporter=html 
+- nyc report --reporter=html 
