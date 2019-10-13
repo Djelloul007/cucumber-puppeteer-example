@@ -8,7 +8,8 @@ to run the test npx cucumber-js -f json:cucumber_report.json
 
 or 
 
-npm test     and to open the HTML report   node report.js
+- npm test     
+- and to open the HTML report   node report.js 
 
 or
 
