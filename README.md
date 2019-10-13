@@ -1,6 +1,6 @@
 # cucumber + "Google Chrome puppeteere" example
 
-Write UI tests using Gherkin, Cucumber, and Puppeteer. This example is an example project on how to use [cucumber](https://github.com/cucumber/cucumber-js) with [puppeteer](https://github.com/GoogleChrome/puppeteer).
+Write UI tests using Gherkin, Cucumber, and Puppeteer. This example is an example project on how to use [cucumber](https://github.com/cucumber/cucumber-js) with [puppeteer](https://github.com/GoogleChrome/puppeteer)  and [puppeteer-to-istanbul] (https://github.com/istanbuljs/puppeteer-to-istanbul) to generate test coverage.
 
 The world.js file lives inside the /features/support/ folder, and is loaded automatically when running Cucumber  
 
