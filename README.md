@@ -8,7 +8,8 @@ to run the test npx cucumber-js -f json:cucumber_report.json
 
 or 
 
-npm test 
+npm test     and to open the HTML report   node report.js
+
 or
 
 Run `yarn` to get the dependencies and then run `yarn test` to execute the UI tests.
