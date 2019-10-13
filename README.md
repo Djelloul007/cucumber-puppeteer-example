@@ -18,3 +18,9 @@ Run `yarn` to get the dependencies and then run `yarn test` to execute the UI te
 
 The `yarn test` command will generate a JSON report file. You can use the `yarn test:report` command to check the HTML report.
 "# cucumber-puppeteer-example" 
+
+
+to generate test coverage 
+install nyc, npm i nyc -g 
+and then 
+nyc report --reporter=html 
