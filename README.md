@@ -8,6 +8,9 @@ to run the test npx cucumber-js -f json:cucumber_report.json
 
 or 
 
+npm test 
+or
+
 Run `yarn` to get the dependencies and then run `yarn test` to execute the UI tests.
 
 The `yarn test` command will generate a JSON report file. You can use the `yarn test:report` command to check the HTML report.
