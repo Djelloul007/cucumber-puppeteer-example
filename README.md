@@ -4,7 +4,8 @@ Write UI tests using Gherkin, Cucumber, and Puppeteer. This project is an exampl
 
 The world.js file lives inside the /features/support/ folder, and is loaded automatically when running Cucumber  
 
-to run the test npx cucumber-js -f json:cucumber_report.json 
+to run the test 
+- npx cucumber-js -f json:cucumber_report.json 
 
 or 
 
