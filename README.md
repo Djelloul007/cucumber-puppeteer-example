@@ -18,5 +18,3 @@ Run `yarn` to get the dependencies and then run `yarn test` to execute the UI te
 
 The `yarn test` command will generate a JSON report file. You can use the `yarn test:report` command to check the HTML report.
 "# cucumber-puppeteer-example" 
-
-see the [HTML report  ](https://github.com/Djelloul007/cucumber-puppeteer-example/blob/master/cucumber_report.html)
